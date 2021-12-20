@@ -1,0 +1,2 @@
+http://blog.yoursite.com/* https://www.magic-object.mydns.jp/:splat 301!
+https://blog.yoursite.com/* https:/www.magic-object.mydns.jp/:splat 301!
