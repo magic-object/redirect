@@ -1,0 +1,7 @@
+[[redirects]]
+  from = "/"
+  to = "http://www.magic-object.mydns.jp/"
+  status = 301
+  force = true
+  query = {path = ":path"}
+  conditions = {Language = ["ja"], Country = ["JP"], Role = ["admin"]}
